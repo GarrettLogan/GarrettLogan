@@ -1,5 +1,5 @@
 ![orange and pink sunset overlooking a city](./static/assets/img/banner1.png)
-
+[![My Skills](https://skillicon.dev/icons?i=html,css,py,anaconda,arduino,blender,bootstrap,flask,github,gmail,linux,raspberrypi,unity,unreal,visualstudio,vscode)]
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicon.dev/icons?i=html,css,py,anaconda,arduino,blender,bootstrap,flask,github,gmail,linux,raspberrypi,unity,unreal,visualstudio,vscode" />
